@@ -135,14 +135,14 @@
         {
             "id": 20,
             "date": 1577601297032,
-            "word": "上午",
+            "word": "午",
             "sentence": "上 午 的 阳 光",
             "translation": "sunshine in the morning."
         },
         {
             "id": 21,
             "date": 1577601297032,
-            "word": "下午",
+            "word": "午",
             "sentence": "下 午 的 茶",
             "translation": "tea in the aftternoon"
         },
@@ -2133,6 +2133,692 @@
             "word": "辞",
             "sentence": "故 人 西 辞 黄 鹤 楼",
             "translation": "Goodbye to an old friend who is traveling to the west at Huang He Lou."
+        },
+        {
+            "id": 296,
+            "date": 1577601297032,
+            "word": "什",
+            "sentence": "什 么",
+            "translation": "what is it?"
+        },
+        {
+            "id": 297,
+            "date": 1577601297032,
+            "word": "么",
+            "sentence": "什 么",
+            "translation": "what is it?"
+        },
+        {
+            "id": 298,
+            "date": 1577601297032,
+            "word": "作",
+            "sentence": "作 家",
+            "translation": "writer"
+        },
+        {
+            "id": 299,
+            "date": 1577601297032,
+            "word": "医",
+            "sentence": "医 生",
+            "translation": "doctor"
+        },
+        {
+            "id": 300,
+            "date": 1577601297032,
+            "word": "生",
+            "sentence": "生 日",
+            "translation": "birthday"
+        },
+        {
+            "id": 301,
+            "date": 1577601297032,
+            "word": "忙",
+            "sentence": "忙 碌",
+            "translation": "busy"
+        },
+        {
+            "id": 302,
+            "date": 1577601297032,
+            "word": "现",
+            "sentence": "现 在",
+            "translation": "now"
+        },
+        {
+            "id": 303,
+            "date": 1577601297032,
+            "word": "在",
+            "sentence": "在 家",
+            "translation": "at home"
+        },
+        {
+            "id": 304,
+            "date": 1577601297032,
+            "word": "点",
+            "sentence": "九 点 钟",
+            "translation": "nine o'clock"
+        },
+        {
+            "id": 305,
+            "date": 1577601297032,
+            "word": "钟",
+            "sentence": "九 点 钟",
+            "translation": "nine o'clock"
+        },
+        {
+            "id": 306,
+            "date": 1577601297032,
+            "word": "分",
+            "sentence": "分 钟",
+            "translation": "minute"
+        },
+        {
+            "id": 307,
+            "date": 1577601297032,
+            "word": "了",
+            "sentence": "下 雨 了",
+            "translation": "it is raining now"
+        },
+        {
+            "id": 308,
+            "date": 1577601297032,
+            "word": "吃",
+            "sentence": "吃 饭",
+            "translation": "eat food"
+        },
+        {
+            "id": 309,
+            "date": 1577601297032,
+            "word": "早",
+            "sentence": "早 饭",
+            "translation": "breakfast"
+        },
+        {
+            "id": 310,
+            "date": 1577601297032,
+            "word": "饭",
+            "sentence": "饭 店",
+            "translation": "restaurant"
+        },
+        {
+            "id": 311,
+            "date": 1577601297032,
+            "word": "时",
+            "sentence": "时 间",
+            "translation": "time"
+        },
+        {
+            "id": 312,
+            "date": 1577601297032,
+            "word": "候",
+            "sentence": "有 时 候",
+            "translation": "sometime"
+        },
+        {
+            "id": 313,
+            "date": 1577601297032,
+            "word": "晚",
+            "sentence": "停 车 坐 爱 枫 林 晚",
+            "translation": "love to stop and look at the autum maple leaves"
+        },
+        {
+            "id": 314,
+            "date": 1577601297032,
+            "word": "起",
+            "sentence": "起 床",
+            "translation": "get up"
+        },
+        {
+            "id": 315,
+            "date": 1577601297032,
+            "word": "床",
+            "sentence": "床 单",
+            "translation": "bed sheet"
+        },
+        {
+            "id": 316,
+            "date": 1577601297032,
+            "word": "跑",
+            "sentence": "跑 步",
+            "translation": "running"
+        },
+        {
+            "id": 317,
+            "date": 1577601297032,
+            "word": "步",
+            "sentence": "跑 步",
+            "translation": "running"
+        },
+        {
+            "id": 318,
+            "date": 1577601297032,
+            "word": "今",
+            "sentence": "今 天",
+            "translation": "today"
+        },
+        {
+            "id": 319,
+            "date": 1577601297032,
+            "word": "明",
+            "sentence": "明 天",
+            "translation": "tomorrow"
+        },
+        {
+            "id": 320,
+            "date": 1577601297032,
+            "word": "月",
+            "sentence": "月 亮",
+            "translation": "moon"
+        },
+        {
+            "id": 321,
+            "date": 1577601297032,
+            "word": "看",
+            "sentence": "看 书",
+            "translation": "reading"
+        },
+        {
+            "id": 322,
+            "date": 1577601297032,
+            "word": "电",
+            "sentence": "电 视",
+            "translation": "TV"
+        },
+        {
+            "id": 323,
+            "date": 1577601297032,
+            "word": "影",
+            "sentence": "电 影",
+            "translation": "movie"
+        },
+        {
+            "id": 324,
+            "date": 1577601297032,
+            "word": "昨",
+            "sentence": "昨 天",
+            "translation": "yesterday"
+        },
+        {
+            "id": 325,
+            "date": 1577601297032,
+            "word": "去",
+            "sentence": "去 年",
+            "translation": "last year"
+        },
+        {
+            "id": 326,
+            "date": 1577601297032,
+            "word": "星",
+            "sentence": "一 星 期",
+            "translation": "one week"
+        },
+        {
+            "id": 327,
+            "date": 1577601297032,
+            "word": "期",
+            "sentence": "假 期",
+            "translation": "holiday"
+        },
+        {
+            "id": 328,
+            "date": 1577601297032,
+            "word": "每",
+            "sentence": "每 天",
+            "translation": "everyday"
+        },
+        {
+            "id": 329,
+            "date": 1577601297032,
+            "word": "进",
+            "sentence": "进 步",
+            "translation": "improvement"
+        },
+        {
+            "id": 330,
+            "date": 1577601297032,
+            "word": "买",
+            "sentence": "买 卖",
+            "translation": "business"
+        },
+        {
+            "id": 331,
+            "date": 1577601297032,
+            "word": "商",
+            "sentence": "商 人",
+            "translation": "merchant， business man"
+        },
+        {
+            "id": 332,
+            "date": 1577601297032,
+            "word": "店",
+            "sentence": "商 店",
+            "translation": "shop"
+        },
+        {
+            "id": 333,
+            "date": 1577601297032,
+            "word": "衣",
+            "sentence": "毛 衣",
+            "translation": "sweater"
+        },
+        {
+            "id": 334,
+            "date": 1577601297032,
+            "word": "件",
+            "sentence": "零 件",
+            "translation": "parts"
+        },
+        {
+            "id": 335,
+            "date": 1577601297032,
+            "word": "钱",
+            "sentence": "钱 包",
+            "translation": "wallet"
+        },
+        {
+            "id": 336,
+            "date": 1577601297032,
+            "word": "百",
+            "sentence": "百 分 之 百",
+            "translation": "one hundred percent, 100%"
+        },
+        {
+            "id": 337,
+            "date": 1577601297032,
+            "word": "块",
+            "sentence": "一 块 儿 玩",
+            "translation": "let's play together"
+        },
+        {
+            "id": 338,
+            "date": 1577601297032,
+            "word": "便",
+            "sentence": "方 便",
+            "translation": "convenient"
+        },
+        {
+            "id": 339,
+            "date": 1577601297032,
+            "word": "宜",
+            "sentence": "宜 人",
+            "translation": "pleasant"
+        },
+        {
+            "id": 340,
+            "date": 1577601297032,
+            "word": "脑",
+            "sentence": "脑 筋",
+            "translation": "brain"
+        },
+        {
+            "id": 341,
+            "date": 1577601297032,
+            "word": "卖",
+            "sentence": "买 卖",
+            "translation": "business"
+        },
+        {
+            "id": 342,
+            "date": 1577601297032,
+            "word": "元",
+            "sentence": "元 旦",
+            "translation": "new year's day"
+        },
+        {
+            "id": 343,
+            "date": 1577601297032,
+            "word": "太",
+            "sentence": "太 空",
+            "translation": "outer space"
+        },
+        {
+            "id": 344,
+            "date": 1577601297032,
+            "word": "就",
+            "sentence": "一 加 一 就 是 二",
+            "translation": "one plus one is two."
+        },
+        {
+            "id": 345,
+            "date": 1577601297032,
+            "word": "吧",
+            "sentence": "我 们 出 发 吧",
+            "translation": "let's go!"
+        },
+        {
+            "id": 346,
+            "date": 1577601297032,
+            "word": "零",
+            "sentence": "零 下 5 度",
+            "translation": "it is 5 degrees below 0"
+        },
+        {
+            "id": 347,
+            "date": 1577601297032,
+            "word": "读",
+            "sentence": "读 书",
+            "translation": "reading"
+        },
+        {
+            "id": 348,
+            "date": 1577601297032,
+            "word": "习",
+            "sentence": "习 惯",
+            "translation": "habit"
+        },
+        {
+            "id": 349,
+            "date": 1577601297032,
+            "word": "书",
+            "sentence": "书 架",
+            "translation": "book shelf"
+        },
+        {
+            "id": 350,
+            "date": 1577601297032,
+            "word": "本",
+            "sentence": "我 本 来 要 去 跑 步 的",
+            "translation": "I originally wanted to go for a run"
+        },
+        {
+            "id": 351,
+            "date": 1577601297032,
+            "word": "帮",
+            "sentence": "帮 助",
+            "translation": "help"
+        },
+        {
+            "id": 352,
+            "date": 1577601297032,
+            "word": "助",
+            "sentence": "帮 助",
+            "translation": "help"
+        },
+        {
+            "id": 353,
+            "date": 1577601297032,
+            "word": "旁",
+            "sentence": "杯 子 旁 边",
+            "translation": "beside the cup"
+        },
+        {
+            "id": 354,
+            "date": 1577601297032,
+            "word": "边",
+            "sentence": "海 边",
+            "translation": "sea side"
+        },
+        {
+            "id": 355,
+            "date": 1577601297032,
+            "word": "对",
+            "sentence": "对 面",
+            "translation": "opposite side"
+        },
+        {
+            "id": 356,
+            "date": 1577601297032,
+            "word": "院",
+            "sentence": "院 子",
+            "translation": "yard"
+        },
+        {
+            "id": 357,
+            "date": 1577601297032,
+            "word": "校",
+            "sentence": "学 校",
+            "translation": "school"
+        },
+        {
+            "id": 358,
+            "date": 1577601297032,
+            "word": "离",
+            "sentence": "离 开",
+            "translation": "leave"
+        },
+        {
+            "id": 359,
+            "date": 1577601297032,
+            "word": "远",
+            "sentence": "远 处",
+            "translation": "a place in the distant"
+        },
+        {
+            "id": 360,
+            "date": 1577601297032,
+            "word": "走",
+            "sentence": "走 路",
+            "translation": "walking"
+        },
+        {
+            "id": 361,
+            "date": 1577601297032,
+            "word": "过",
+            "sentence": "经 过",
+            "translation": "pass by"
+        },
+        {
+            "id": 362,
+            "date": 1577601297032,
+            "word": "再",
+            "sentence": "再 见",
+            "translation": "good bye"
+        },
+        {
+            "id": 363,
+            "date": 1577601297032,
+            "word": "近",
+            "sentence": "附 近",
+            "translation": "near by area"
+        },
+        {
+            "id": 364,
+            "date": 1577601297032,
+            "word": "外",
+            "sentence": "外 面",
+            "translation": "outside"
+        },
+        {
+            "id": 365,
+            "date": 1577601297032,
+            "word": "路",
+            "sentence": "路 标",
+            "translation": "traffic signs"
+        },
+        {
+            "id": 366,
+            "date": 1577601297032,
+            "word": "能",
+            "sentence": "他 能 吃 好 多 肉",
+            "translation": "he is able to eat a lot of meat"
+        },
+        {
+            "id": 367,
+            "date": 1577601297032,
+            "word": "穿",
+            "sentence": "穿 衣 服",
+            "translation": "wear clothes"
+        },
+        {
+            "id": 368,
+            "date": 1577601297032,
+            "word": "服",
+            "sentence": "服 务",
+            "translation": "service"
+        },
+        {
+            "id": 369,
+            "date": 1577601297032,
+            "word": "喝",
+            "sentence": "喝 水",
+            "translation": "drink water"
+        },
+        {
+            "id": 370,
+            "date": 1577601297032,
+            "word": "饮",
+            "sentence": "饮 料",
+            "translation": "drinks"
+        },
+        {
+            "id": 371,
+            "date": 1577601297032,
+            "word": "着",
+            "sentence": "着 急",
+            "translation": "get worried"
+        },
+        {
+            "id": 372,
+            "date": 1577601297032,
+            "word": "气",
+            "sentence": "气 候",
+            "translation": "weather"
+        },
+        {
+            "id": 373,
+            "date": 1577601297032,
+            "word": "报",
+            "sentence": "报 告",
+            "translation": "report"
+        },
+        {
+            "id": 374,
+            "date": 1577601297032,
+            "word": "晴",
+            "sentence": "晴 天",
+            "translation": "sunny day"
+        },
+        {
+            "id": 375,
+            "date": 1577601297032,
+            "word": "阴",
+            "sentence": "阴 凉",
+            "translation": "cool"
+        },
+        {
+            "id": 376,
+            "date": 1577601297032,
+            "word": "漂",
+            "sentence": "漂 亮",
+            "translation": "beautiful"
+        },
+        {
+            "id": 377,
+            "date": 1577601297032,
+            "word": "务",
+            "sentence": "任 务",
+            "translation": "mission"
+        },
+        {
+            "id": 378,
+            "date": 1577601297032,
+            "word": "望",
+            "sentence": "望 庐 山 瀑 布",
+            "translation": "looking at lushan fall"
+        },
+        {
+            "id": 379,
+            "date": 1577601297032,
+            "word": "球",
+            "sentence": "球 场",
+            "translation": "stadium"
+        },
+        {
+            "id": 380,
+            "date": 1577601297032,
+            "word": "希",
+            "sentence": "希 望",
+            "translation": "hope"
+        },
+        {
+            "id": 381,
+            "date": 1577601297032,
+            "word": "次",
+            "sentence": "去 了 很 多 次 公 园",
+            "translation": "been to the park many times"
+        },
+        {
+            "id": 382,
+            "date": 1577601297032,
+            "word": "始",
+            "sentence": "开 始",
+            "translation": "start"
+        },
+        {
+            "id": 383,
+            "date": 1577601297032,
+            "word": "班",
+            "sentence": "上 班",
+            "translation": "go to work"
+        },
+        {
+            "id": 384,
+            "date": 1577601297032,
+            "word": "羊",
+            "sentence": "羊 肉 串",
+            "translation": "lamb skewer"
+        },
+        {
+            "id": 385,
+            "date": 1577601297032,
+            "word": "奶",
+            "sentence": "奶 茶",
+            "translation": "milk tea"
+        },
+        {
+            "id": 386,
+            "date": 1577601297032,
+            "word": "准",
+            "sentence": "准 时",
+            "translation": "on time"
+        },
+        {
+            "id": 387,
+            "date": 1577601297032,
+            "word": "夫",
+            "sentence": "夫 人",
+            "translation": "Madame"
+        },
+        {
+            "id": 388,
+            "date": 1577601297032,
+            "word": "备",
+            "sentence": "准 备",
+            "translation": "get ready"
+        },
+        {
+            "id": 389,
+            "date": 1577601297032,
+            "word": "答",
+            "sentence": "答 案",
+            "translation": "answer"
+        },
+        {
+            "id": 390,
+            "date": 1577601297032,
+            "word": "等",
+            "sentence": "等 待",
+            "translation": "waiting"
+        },
+        {
+            "id": 391,
+            "date": 1577601297032,
+            "word": "舞",
+            "sentence": "舞 蹈",
+            "translation": "dance"
+        },
+        {
+            "id": 392,
+            "date": 1577601297032,
+            "word": "房",
+            "sentence": "房 间",
+            "translation": "room"
+        },
+        {
+            "id": 393,
+            "date": 1577601297032,
+            "word": "迎",
+            "sentence": "欢 迎",
+            "translation": "welcome"
         }
     ]
 }
