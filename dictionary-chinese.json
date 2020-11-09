@@ -2819,6 +2819,202 @@
             "word": "迎",
             "sentence": "欢 迎",
             "translation": "welcome"
+        },
+        {
+            "id": 394,
+            "date": 1577601297032,
+            "word": "向",
+            "sentence": "方 向；向 晚 意 不 适",
+            "translation": "direction; not feeling good at evening"
+        },
+        {
+            "id": 395,
+            "date": 1577601297032,
+            "word": "意",
+            "sentence": "向 晚 意 不 适",
+            "translation": "feeling not good at evening"
+        },
+        {
+            "id": 396,
+            "date": 1577601297032,
+            "word": "适",
+            "sentence": "向 晚 意 不 适",
+            "translation": "feeling not good at evening"
+        },
+        {
+            "id": 397,
+            "date": 1577601297032,
+            "word": "驱",
+            "sentence": "驱 车 登 古 原",
+            "translation": "riding a cart up on to the old field."
+        },
+        {
+            "id": 398,
+            "date": 1577601297032,
+            "word": "登",
+            "sentence": "驱 车 登 古 原",
+            "translation": "riding a cart up on to the old field."
+        },
+        {
+            "id": 399,
+            "date": 1577601297032,
+            "word": "古",
+            "sentence": "驱 车 登 古 原",
+            "translation": "riding a cart up on to the old field."
+        },
+        {
+            "id": 400,
+            "date": 1577601297032,
+            "word": "原",
+            "sentence": "驱 车 登 古 原",
+            "translation": "riding a cart up on to the old field."
+        },
+        {
+            "id": 401,
+            "date": 1577601297032,
+            "word": "夕",
+            "sentence": "夕 阳 无 限 好",
+            "translation": "sun set is infinitely beautiful."
+        },
+        {
+            "id": 402,
+            "date": 1577601297032,
+            "word": "阳",
+            "sentence": "夕 阳 无 限 好",
+            "translation": "sun set is infinitely beautiful."
+        },
+        {
+            "id": 403,
+            "date": 1577601297032,
+            "word": "无",
+            "sentence": "夕 阳 无 限 好",
+            "translation": "sun set is infinitely beautiful."
+        },
+        {
+            "id": 404,
+            "date": 1577601297032,
+            "word": "限",
+            "sentence": "夕 阳 无 限 好",
+            "translation": "sun set is infinitely beautiful."
+        },
+        {
+            "id": 405,
+            "date": 1577601297032,
+            "word": "好",
+            "sentence": "夕 阳 无 限 好",
+            "translation": "sun set is infinitely beautiful."
+        },
+        {
+            "id": 406,
+            "date": 1577601297032,
+            "word": "近",
+            "sentence": "只 是 近 黄 昏",
+            "translation": "only that, it is near dust."
+        },
+        {
+            "id": 407,
+            "date": 1577601297032,
+            "word": "黄",
+            "sentence": "只 是 近 黄 昏",
+            "translation": "only that, it is near dust."
+        },
+        {
+            "id": 408,
+            "date": 1577601297032,
+            "word": "间",
+            "sentence": "人 间 四 月 芳 菲 尽",
+            "translation": "When it is April, all flowers in the city are gone."
+        },
+        {
+            "id": 409,
+            "date": 1577601297032,
+            "word": "芳",
+            "sentence": "人 间 四 月 芳 菲 尽",
+            "translation": "When it is April, all flowers in the city are gone."
+        },
+        {
+            "id": 410,
+            "date": 1577601297032,
+            "word": "菲",
+            "sentence": "人 间 四 月 芳 菲 尽",
+            "translation": "When it is April, all flowers in the city are gone."
+        },
+        {
+            "id": 411,
+            "date": 1577601297032,
+            "word": "尽",
+            "sentence": "人 间 四 月 芳 菲 尽",
+            "translation": "When it is April, all flowers in the city are gone."
+        },
+        {
+            "id": 412,
+            "date": 1577601297032,
+            "word": "桃",
+            "sentence": "山 寺 桃 花 始 盛 开",
+            "translation": "The peach flower in the temple only started to bloom."
+        },
+        {
+            "id": 413,
+            "date": 1577601297032,
+            "word": "花",
+            "sentence": "山 寺 桃 花 始 盛 开",
+            "translation": "The peach flower in the temple only started to bloom."
+        },
+        {
+            "id": 414,
+            "date": 1577601297032,
+            "word": "始",
+            "sentence": "山 寺 桃 花 始 盛 开",
+            "translation": "The peach flower in the temple only started to bloom."
+        },
+        {
+            "id": 415,
+            "date": 1577601297032,
+            "word": "盛",
+            "sentence": "山 寺 桃 花 始 盛 开",
+            "translation": "The peach flower in the temple only started to bloom."
+        },
+        {
+            "id": 416,
+            "date": 1577601297032,
+            "word": "恨",
+            "sentence": "长 恨 春 归 无 觅 处",
+            "translation": "Always wondering where to find Spring."
+        },
+        {
+            "id": 417,
+            "date": 1577601297032,
+            "word": "归",
+            "sentence": "长 恨 春 归 无 觅 处",
+            "translation": "Always wondering where to find Spring."
+        },
+        {
+            "id": 418,
+            "date": 1577601297032,
+            "word": "觅",
+            "sentence": "长 恨 春 归 无 觅 处",
+            "translation": "Always wondering where to find Spring."
+        },
+        {
+            "id": 419,
+            "date": 1577601297032,
+            "word": "转",
+            "sentence": "不 知 转 入 此 中 来",
+            "translation": "Didn't know to turn in here to check."
+        },
+        {
+            "id": 420,
+            "date": 1577601297032,
+            "word": "此",
+            "sentence": "不 知 转 入 此 中 来",
+            "translation": "Didn't know to turn in here to check."
+        },
+        {
+            "id": 421,
+            "date": 1577601297032,
+            "word": "入",
+            "sentence": "不 知 转 入 此 中 来",
+            "translation": "Didn't know to turn in here to check."
         }
     ]
 }
